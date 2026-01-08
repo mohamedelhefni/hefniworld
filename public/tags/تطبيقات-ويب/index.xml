@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>تطبيقات ويب on عالم حفني </title>
+    <link>http://localhost:1313/tags/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D9%88%D9%8A%D8%A8/</link>
+    <description>Recent content in تطبيقات ويب on عالم حفني </description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Sat, 16 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D9%88%D9%8A%D8%A8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kindle Books</title>
+      <link>http://localhost:1313/projects/kindle-books/</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kindle-books/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;موقع يتيح البحث في مجموعة تضم حوالي 8000 كتاب إلكتروني بصيغ متنوعة: mobi، epub، azw3، kfx، pdf.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kindlebooks.png&#34; alt=&#34;الواجهة&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;آلية-العمل&#34;&gt;آلية العمل&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;أنشأت سكربت Python يستخدم جلسة Telegram لجلب الملفات من قناة&lt;/li&gt;&#xA;&lt;li&gt;يقوم السكربت بتحميل كل ملف ورفعه إلى Google Drive&lt;/li&gt;&#xA;&lt;li&gt;تم تشغيل السكربت على Google Cloud Console&lt;/li&gt;&#xA;&lt;li&gt;ينتج ملف CSV يحتوي على اسم الكتاب ومعرفات Telegram و Drive&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;البحث في الكتب&lt;/li&gt;&#xA;&lt;li&gt;حفظ الكتب في المفضلة&lt;/li&gt;&#xA;&lt;li&gt;تحميل الكتب من Google Drive&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;البنية-التقنية&#34;&gt;البنية التقنية&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;الواجهة&lt;/strong&gt;: Vue.js + Tailwind CSS (Netlify)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;الخادم&lt;/strong&gt;: Node.js + Express (Heroku)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;قاعدة البيانات&lt;/strong&gt;: MongoDB Atlas&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;التخزين&lt;/strong&gt;: Google Drive API&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;الأداء&#34;&gt;الأداء&lt;/h2&gt;&#xA;&lt;p&gt;التطبيق يتحمل بسهولة 100 ألف طلب، بينما النسخة السابقة بـ Python/Flask/MySQL فشلت بعد 500 طلب فقط.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dawenha - Note Sharing</title>
+      <link>http://localhost:1313/projects/note-sharing/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/note-sharing/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;موقع لمشاركة الملاحظات يتيح الكتابة بصيغة Markdown مع تمييز الأكواد البرمجية.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/dawenha.png&#34; alt=&#34;لقطة شاشة&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;كتابة الملاحظات بـ Markdown&lt;/li&gt;&#xA;&lt;li&gt;تمييز الأكواد البرمجية&lt;/li&gt;&#xA;&lt;li&gt;مشاركة الملاحظات مع الآخرين&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Real-Time Chat App</title>
+      <link>http://localhost:1313/projects/real-time-chat-app/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/real-time-chat-app/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;تطبيق دردشة فورية مبني بـ Vue.js و Firebase.&lt;/p&gt;&#xA;&lt;h2 id=&#34;التقنيات&#34;&gt;التقنيات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vuetify&lt;/strong&gt; للواجهة والتصميم&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Firebase&lt;/strong&gt; كـ backend لإدارة الرسائل&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;لا يتطلب تسجيل دخول&lt;/li&gt;&#xA;&lt;li&gt;أدخل اسمك فقط وانضم للغرفة العامة&lt;/li&gt;&#xA;&lt;li&gt;رسائل فورية في الوقت الحقيقي&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;الغرض&#34;&gt;الغرض&lt;/h2&gt;&#xA;&lt;p&gt;مشروع جانبي للتدريب على استخدام Firebase.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hacker News Clone</title>
+      <link>http://localhost:1313/projects/hacker-news-clone/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hacker-news-clone/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;استنساخ لـ Hacker News يستخدم API الرسمي مع React.js و Tailwind CSS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;عرض الأخبار والقصص&lt;/li&gt;&#xA;&lt;li&gt;خانة بحث&lt;/li&gt;&#xA;&lt;li&gt;فلتر للتعليقات والقصص&lt;/li&gt;&#xA;&lt;li&gt;تصميم نظيف ومتجاوب&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;التقنيات&#34;&gt;التقنيات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;React.js مع Hooks&lt;/li&gt;&#xA;&lt;li&gt;Tailwind CSS للتصميم&lt;/li&gt;&#xA;&lt;li&gt;Hacker News API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>DarkHub - GitHub Clone</title>
+      <link>http://localhost:1313/projects/github-clone/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/github-clone/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;DarkHub هو استنساخ لـ GitHub يستخدم GitHub API كـ backend و React.js للواجهة الأمامية مع React Hooks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;البحث باسم المستخدم&lt;/li&gt;&#xA;&lt;li&gt;عرض المستودعات&lt;/li&gt;&#xA;&lt;li&gt;تصميم متجاوب بالكامل&lt;/li&gt;&#xA;&lt;li&gt;واجهة داكنة أنيقة&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;التقنيات&#34;&gt;التقنيات&lt;/h2&gt;&#xA;&lt;p&gt;استخدمت Materialize CSS للواجهة مع تخصيصات CSS إضافية لتحسين المظهر.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diary App</title>
+      <link>http://localhost:1313/projects/diary-app/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/diary-app/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;تطبيق مذكرات بسيط مبني بـ Vanilla JavaScript و Tailwind CSS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;إضافة مذكرة جديدة&lt;/li&gt;&#xA;&lt;li&gt;تعديل مذكرة اليوم تلقائياً&lt;/li&gt;&#xA;&lt;li&gt;مراجعة وتعديل المذكرات القديمة&lt;/li&gt;&#xA;&lt;li&gt;إضافة الحالة المزاجية (سعيد، عادي، حزين)&lt;/li&gt;&#xA;&lt;li&gt;حذف المذكرات&lt;/li&gt;&#xA;&lt;li&gt;تحميل جميع المذكرات كملف PDF&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

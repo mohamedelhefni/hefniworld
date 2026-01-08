@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API on عالم حفني </title>
+    <link>http://localhost:1313/tags/api/</link>
+    <description>Recent content in API on عالم حفني </description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacker News Clone</title>
+      <link>http://localhost:1313/projects/hacker-news-clone/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/hacker-news-clone/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;استنساخ لـ Hacker News يستخدم API الرسمي مع React.js و Tailwind CSS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;عرض الأخبار والقصص&lt;/li&gt;&#xA;&lt;li&gt;خانة بحث&lt;/li&gt;&#xA;&lt;li&gt;فلتر للتعليقات والقصص&lt;/li&gt;&#xA;&lt;li&gt;تصميم نظيف ومتجاوب&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;التقنيات&#34;&gt;التقنيات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;React.js مع Hooks&lt;/li&gt;&#xA;&lt;li&gt;Tailwind CSS للتصميم&lt;/li&gt;&#xA;&lt;li&gt;Hacker News API&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>DarkHub - GitHub Clone</title>
+      <link>http://localhost:1313/projects/github-clone/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/github-clone/</guid>
+      <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;DarkHub هو استنساخ لـ GitHub يستخدم GitHub API كـ backend و React.js للواجهة الأمامية مع React Hooks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;البحث باسم المستخدم&lt;/li&gt;&#xA;&lt;li&gt;عرض المستودعات&lt;/li&gt;&#xA;&lt;li&gt;تصميم متجاوب بالكامل&lt;/li&gt;&#xA;&lt;li&gt;واجهة داكنة أنيقة&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;التقنيات&#34;&gt;التقنيات&lt;/h2&gt;&#xA;&lt;p&gt;استخدمت Materialize CSS للواجهة مع تخصيصات CSS إضافية لتحسين المظهر.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
