@@ -6,7 +6,7 @@
     <description>Recent content on عالم حفني </description>
     <generator>Hugo</generator>
     <language>ar</language>
-    <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 02:17:15 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zahi Hugo Theme</title>
@@ -119,6 +119,13 @@
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/diary-app/</guid>
       <description>&lt;h2 id=&#34;نظرة-عامة&#34;&gt;نظرة عامة&lt;/h2&gt;&#xA;&lt;p&gt;تطبيق مذكرات بسيط مبني بـ Vanilla JavaScript و Tailwind CSS.&lt;/p&gt;&#xA;&lt;h2 id=&#34;المميزات&#34;&gt;المميزات&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;إضافة مذكرة جديدة&lt;/li&gt;&#xA;&lt;li&gt;تعديل مذكرة اليوم تلقائياً&lt;/li&gt;&#xA;&lt;li&gt;مراجعة وتعديل المذكرات القديمة&lt;/li&gt;&#xA;&lt;li&gt;إضافة الحالة المزاجية (سعيد، عادي، حزين)&lt;/li&gt;&#xA;&lt;li&gt;حذف المذكرات&lt;/li&gt;&#xA;&lt;li&gt;تحميل جميع المذكرات كملف PDF&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>أهلا بالعالم</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;بسم الله والحمد لله والصلاة والسلام على رسول الله&lt;br&gt;&#xA;الحمد لله الذي علم الانسان القلم علم الانسان ما لم يعلم والصلاة والسلام على خير معلم الناس الخير محمد&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
